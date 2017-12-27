@@ -6,6 +6,7 @@ public class TestGit {
 
 		System.out.println("Hi Git");
 		System.out.println("First Commit done");
+		System.out.println("My third commit");
 	}
 
 }

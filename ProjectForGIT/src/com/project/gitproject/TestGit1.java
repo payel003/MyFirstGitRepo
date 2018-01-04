@@ -6,6 +6,7 @@ public class TestGit1 {
 
 		System.out.println("This is my latest Project");
 		System.out.println("Now changing to check my Jenkins");
+		System.out.println("Ok to check now jmeter");
 	}
 
 }
